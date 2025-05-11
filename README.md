@@ -1,0 +1,1 @@
+The user acknowledges that they are using this code at their own risk and that the provider makes no warranties or guarantees about the code's performance, accuracy, or suitability. The provider is not liable for any damages or losses that may result from the use of this code. Code is not to be used for anything that is not legally permitted. 
